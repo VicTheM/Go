@@ -1,4 +1,4 @@
-module HelloWorld
+module example/HelloWorld
 
 go 1.24.6
 
