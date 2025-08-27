@@ -1,6 +1,8 @@
-module example/HelloWorld
+module WebTour
 
 go 1.24.6
+
+replace example.com/Greetings => ./Greetings
 
 require rsc.io/quote v1.5.2
 
